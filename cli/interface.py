@@ -1,4 +1,5 @@
 #yanlış girme hakkı gelecek, 3 veya 5 yanlış sonrasında kapanacak
+#progress bar eklenecek
 import time
 import pyfiglet
 from rich.console import Console
