@@ -14,6 +14,7 @@ def scan_port(ip, port):
     except Exception:
         return False
 
+#threading eklenecek şu an yavaş çalışıyor 
 def scan_ports(ip, ports):
     
     open_ports = []
