@@ -1,3 +1,4 @@
+#ekleme yapılabilir belki araştır
 WEB_PORTS = {
     80: "HTTP",
     443: "HTTPS",
