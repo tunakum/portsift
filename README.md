@@ -2,9 +2,10 @@
 
 ## Preview
 
-<div align="center">
-  ![portsift CLI preview](portsift.png)
-</div>
+<p align="center">
+  <img src="portsift.png" alt="portsift CLI preview">
+</p>
+
 
 A fast, lightweight and multi-threaded Python port scanner with a clean, terminal-friendly interface.
 
